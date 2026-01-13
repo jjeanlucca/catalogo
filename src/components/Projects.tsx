@@ -14,7 +14,7 @@ const projects = [
   },
   {
     id: 2,
-    title: "Loja Elegance",
+    title: "Aurora Moda Feminina",
     category: "E-commerce",
     description: "Loja virtual de moda feminina com integração de pagamento. Faturamento dobrou em 3 meses.",
     image: "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600&h=400&fit=crop",
